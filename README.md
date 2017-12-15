@@ -5,9 +5,9 @@ All text in the repository only contain the custom made translated strings.
 
 # Build
 The process of building the translated ROM is:
-  Use dsLazy to unpack your rom
-  replace the 'text' folder by this one
-  re-pack
+* Use dsLazy to unpack your rom
+* replace the 'text' folder by this one
+* re-pack
 
 # Licenses
 Creative Commons Attribution-NonCommercial 4.0 International applies for all graphics and text in the folders and subfolders where that license exist. The New BSD license specified in LICENSE in the project root applies to all other files.
