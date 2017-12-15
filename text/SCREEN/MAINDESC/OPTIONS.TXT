@@ -1,0 +1,7 @@
+Change_the 
+player_name.
+Sound
+Settings.
+Allows_you
+to_erase 
+all_game_data.
