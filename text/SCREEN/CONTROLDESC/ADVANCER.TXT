@@ -1,9 +1,9 @@
 %3cSame%c_As_Real_Airplane!
 
-\upF%3cRaise_the_nose%c
-\downF%3clowering_the_nose%c
-\L/RF%3cAircraft_roll%c
-‚`buttonF%3cmissile%c
-‚abuttonF%3cMachine_gun%c
-‚wbuttonF%3cTarget_switching%c
-‚xbuttonF%3cYaw_operation%c
+åup:%3cRaise_the_nose%c
+ådown:%3clowering_the_nose%c
+åL/R:%3cAircraft_roll%c
+ï¼¡button:%3cmissile%c
+ï¼¢button:%3cMachine_gun%c
+ï¼¸button:%3cTarget_switching%c
+ï¼¹button:%3cYaw_operation%c
