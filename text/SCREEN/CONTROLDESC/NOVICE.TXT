@@ -1,9 +1,9 @@
 %3cEasy_airplane_operation%c
-Controllers:
-è\up:%3cLower_the_nose%c
-è\down:%3cRaise_the_nose%c
-è\L/R:%3cSpin%c
-Ç`button:%3cmissile%c
-Çabutton:%3cmachine_gun%c
-Çwbuttn:%3cTarget_switching%c
-Çxbuttn:%3cweapon_switch%c
+
++up:%3cLower_the_nose%c
++down:%3cRaise_the_nose%c
++L/R:%3cSpin%c
+Abutton:%3cmissile%c
+Bbutton:%3cmachine_gun%c
+Xbuttn:%3cTarget_switching%c
+Ybuttn:%3cweapon_switch%c
