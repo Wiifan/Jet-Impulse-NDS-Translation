@@ -1,0 +1,2 @@
+You_can_purchase:
+aircraft_and_weapons!
