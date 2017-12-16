@@ -1,0 +1,9 @@
+%3cEasy_airplane_operation%c
+Controllers:
+十up：%3cRaise_the_nose%c
+十down：%3cLower_the_nose%c
+十L/R：%3cAircraft_turning%c
+Ａbutton：%3cmissile%c
+Ｂbutton：%3cMachine_gun%c
+Ｘbuttn：%3cTarget_switching%c
+Ｙbuttn：%3cWeapon_switching%c
