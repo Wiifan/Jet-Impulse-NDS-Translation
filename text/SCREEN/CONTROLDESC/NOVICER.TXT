@@ -1,5 +1,5 @@
 %3cEasy_airplane_operation%c
-Controllers:
+
 +up:%3cRaise_the_nose%c
 +down:%3cLower_the_nose%c
 +L/R:%3cAircraft_turning%c
