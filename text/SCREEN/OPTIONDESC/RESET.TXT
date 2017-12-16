@@ -1,2 +1,2 @@
-Re-set_it_to_the_initial_state.
+Reset_it_to_the_initial_state.
 
