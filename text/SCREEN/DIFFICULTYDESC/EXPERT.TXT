@@ -1,0 +1,4 @@
+%3cFor_advanced_users%c_mode.
+weapon_loading_capability.low 
+endurance,_stronger_enemies.
+A_tough_fight_will_b_deployed.
